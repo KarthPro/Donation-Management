@@ -1,0 +1,42 @@
+Liste des dons refusé : 
+Don [id=10, dateDedeReception=Tue Dec 10 10:55:04 CET 2019, reference=Mobilier - Matelas [ Volume : hauteur : 8.0, longueur 8.0, largeur 8.0], donnateur=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude], description=, statut=Refusé, membre=Adherent [id=10, nom=Lepetit, coordonnees=rue Mitterand Paris, telephone=0698788237, fonction=membre, prenom=Claudine]] 
+Don [id=3, dateDedeReception=Tue Dec 10 10:51:33 CET 2019, reference=Mobilier - Table [ Volume : hauteur : 10.0, longueur 10.0, largeur 10.0; Type : salon; Forme : ovale], donnateur=Adherent [id=10, nom=Lepetit, coordonnees=rue Mitterand Paris, telephone=0698788237, fonction=membre, prenom=Claudine], description=, statut=Refusé, membre=Adherent [id=10, nom=Lepetit, coordonnees=rue Mitterand Paris, telephone=0698788237, fonction=membre, prenom=Claudine]] 
+
+Liste des dons accepter : 
+Don [id=0, dateDedeReception=Tue Dec 10 10:49:50 CET 2019, reference=Mobilier - Lave-linge [ Volume : hauteur : 7.0, longueur 7.0, largeur 7.0], donnateur=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon], description=, statut=Accepté, membre=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon]] 
+Don [id=1, dateDedeReception=Tue Dec 10 10:50:19 CET 2019, reference=Mobilier - Matelas [ Volume : hauteur : 8.0, longueur 8.0, largeur 8.0], donnateur=Adherent [id=8, nom=Courty, coordonnees=rue Huchette Paris, telephone=0135362578, fonction=membre, prenom=Valentin], description=, statut=Accepté, membre=Adherent [id=8, nom=Courty, coordonnees=rue Huchette Paris, telephone=0135362578, fonction=membre, prenom=Valentin]] 
+Don [id=2, dateDedeReception=Tue Dec 10 10:51:16 CET 2019, reference=Mobilier - Réfrigérateur [ Volume : hauteur : 9.0, longueur 9.0, largeur 9.0], donnateur=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude], description=, statut=Accepté, membre=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude]] 
+
+Liste des dons vendus : 
+Don [id=4, dateDedeReception=Tue Dec 10 10:52:20 CET 2019, reference=Mobilier - Armoires [ Volume : hauteur : 4.0, longueur 4.0, largeur 4.0], donnateur=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon], description=, statut=Vendu, membre=Adherent [id=8, nom=Courty, coordonnees=rue Huchette Paris, telephone=0135362578, fonction=membre, prenom=Valentin]] 
+
+Liste des dons donner : 
+Don [id=8, dateDedeReception=Tue Dec 10 10:54:33 CET 2019, reference=Mobilier - Cuisiniere [ Volume : hauteur : 6.0, longueur 6.0, largeur 6.0; Puissance : 6; Nombre de plaques : 6], donnateur=Adherent [id=8, nom=Courty, coordonnees=rue Huchette Paris, telephone=0135362578, fonction=membre, prenom=Valentin], description=, statut=Donne, membre=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude]] 
+
+Voici l'ensemble des dons stocké dans l'entreport : PersonneMorale [id=0, nom=Association, coordonnees=30-32 avenue de la République 94 800 Villejuif, telephone=01 46 77 46 77, typeActivité= Organise et gère une association de gestion de dons] 
+Don [id=9, dateDedeReception=Tue Dec 10 10:54:48 CET 2019, reference=Mobilier - Lave-linge [ Volume : hauteur : 7.0, longueur 7.0, largeur 7.0], donnateur=Adherent [id=8, nom=Courty, coordonnees=rue Huchette Paris, telephone=0135362578, fonction=membre, prenom=Valentin], description=, statut=Stocké, membre=Adherent [id=10, nom=Lepetit, coordonnees=rue Mitterand Paris, telephone=0698788237, fonction=membre, prenom=Claudine]] 
+
+Voici l'ensemble des dons stocké dans l'entreport : PersonneMorale [id=1, nom=gardeMeuble, coordonnees=5 rue rivollie paris, telephone=0123456789, typeActivité=stock les meubles] 
+Don [id=7, dateDedeReception=Tue Dec 10 10:54:18 CET 2019, reference=Mobilier - Couverts [ Nombre de couverts : 5], donnateur=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon], description=, statut=Stocké, membre=Adherent [id=10, nom=Lepetit, coordonnees=rue Mitterand Paris, telephone=0698788237, fonction=membre, prenom=Claudine]] 
+Don [id=6, dateDedeReception=Tue Dec 10 10:53:06 CET 2019, reference=Mobilier - Chaises [ Volume : hauteur : 3.0, longueur 3.0, largeur 3.0], donnateur=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon], description=, statut=Stocké, membre=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude]] 
+
+Voici l'ensemble des dons stocké dans l'entreport : PersonneMorale [id=2, nom=depotvente1, coordonnees=52 rue de la republique paris, telephone=0126565689, typeActivité=vend les meubles] 
+Don [id=5, dateDedeReception=Tue Dec 10 10:52:46 CET 2019, reference=Mobilier - Assiettes [ Nombre d'assiettes : 6], donnateur=Adherent [id=7, nom=Dupond, coordonnees=rue de la République Paris, telephone=0103047676, fonction=tresorier, prenom=Simon], description=, statut=Stocké, membre=Adherent [id=9, nom=Legrand, coordonnees=rue Pompidou Paris, telephone=0178766567, fonction=membre, prenom=Claude]] 
+
+ Statistique du :Tue Dec 10 11:03:32 CET 2019 
+nombre de proposition reçu : 
+ 	 -> 11 
+nombre de donnateur : 
+ 	 -> 4 
+nombre de bénéfiaire : 
+ 	 -> 3 
+nombre de dons volumineux accepté : 
+ 	 -> 8 
+ratio dons volumineux accepté sur don volumineux reçu: 
+ 	 -> 88.88888888888889% 
+nombre de dons ventilé vers l'association : 
+ 	 -> 2 
+nombre de dons ventilé vers le garde meuble : 
+ 	 -> 2 
+nombre de dons ventilé vers les depot-vente : 
+ 	 -> 2 
